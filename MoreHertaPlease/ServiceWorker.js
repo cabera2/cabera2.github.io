@@ -1,4 +1,4 @@
-const cacheName = "WriterPark-Herta-0.1.0";
+const cacheName = "WriterPark-Herta-1.1";
 const contentToCache = [
     "Build/HertaWeb.loader.js",
     "Build/HertaWeb.framework.js",
